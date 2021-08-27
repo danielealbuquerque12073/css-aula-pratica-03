@@ -1,0 +1,16 @@
+body{
+	background-color: #cff;
+	text-align: center;
+}
+#primeiro{
+	border-width: medium;
+	border-style: solid;
+	border-color: aqua;
+}
+#segundo{
+	font-style: oblique;
+}
+p{
+	font-size: 35px;
+	font-variant: small-caps;
+}
